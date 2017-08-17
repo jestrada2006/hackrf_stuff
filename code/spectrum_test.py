@@ -46,7 +46,7 @@ if __name__ == '__main__':
   frequencies = [902, 928, 2400, 2500, 3566, 3700, 5170, 5838]
   #determine the current location
   #determine the hackrf commands' arguments
-  commands = ["hackrf_sweep -f ", "hackrf_sweep -f", "hackrf_sweep -f", "hackrf_sweep -f"]
+  commands = ["hackrf_sweep -f ", "hackrf_sweep -f ", "hackrf_sweep -f ", "hackrf_sweep -f "]
   
   i = 0
   j = 0
